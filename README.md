@@ -42,4 +42,12 @@ User-Friendly Interface: Design an intuitive user interface that simplifies the 
 <img src="https://github.com/aryansabhani/e-com/assets/112259316/0a09028f-239b-4351-9079-0d0f71b0ee70"  height="400">
 
 
+ <h2>video:-</h2>
+
+
+https://github.com/aryansabhani/e-com/assets/112259316/419d1b6e-2ec4-4467-8224-3107f14f2707
+
+
+ 
+</header>
 
