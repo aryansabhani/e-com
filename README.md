@@ -1,49 +1,45 @@
 <header>
-<h1> Definition: TODO APP</h1>
+<h1> Definition: e-commerce </h1>
  
 <h2>Project Description:</h2>
 <p>
-Task Listing: Design an interface to list tasks users need to complete. Users can add, edit, and delete tasks. This includes defining task attributes such as title, description, due date, priority, and completion status.
-
+DiscountCart is a simple e-commerce app focused on providing users with the ability to apply promo codes and purchase items quickly
 Task Management: Implement features for organizing tasks. This may involve categorizing tasks into different lists or groups, setting reminders, and prioritizing tasks based on urgency or importance.
 
-User Authentication and Data Storage: Provide user authentication to allow users to securely access their tasks from multiple devices. Utilize a database to store task data, ensuring it's synchronized across devices.
+Promo Code Integration: Users can enter promo codes during checkout to avail discounts on their purchases.
 
-User Interface Customization: Allow users to customize the app's appearance through themes or color schemes to suit their preferences.
+Buy Now Option: A streamlined 'Buy Now' option allows users to instantly purchase products without adding them to a cart, enhancing the shopping experience.
 
-Productivity Insights: Implement features to track task completion and provide insights into users' productivity. This can include statistics such as the number of tasks completed, time spent on tasks, and trends over time 
+Product Catalog: Browse through a diverse catalog of products with detailed descriptions and images.
 </p>
 
 <h2>Project Objectives:</h2>
 <p>
-Functionality: Define the core features your app will offer, such as adding, editing, and deleting tasks, setting deadlines, and organizing tasks into categories or lists.
+Promo Code Integration: Implement a feature that allows users to enter promo codes during checkout, providing discounts or special offers. This feature enhances user experience and encourages repeat purchases.
 
-User Experience (UX): Prioritize a user-friendly interface with intuitive navigation and minimalistic design to enhance usability and encourage user engagement.
+Buy Now Option: Enable a streamlined checkout process with a "Buy Now" option, reducing friction and increasing conversion rates. This feature caters to users who prefer quick purchases without going through the traditional shopping cart flow.
 
-Productivity Tracking: Implement features that enable users to track their task completion progress and productivity, providing insights into time management and task prioritization.
-
-Customization: Allow users to personalize their experience through customizable themes, task categories, and notification settings.
-
-Accessibility: Ensure accessibility features are integrated to accommodate users with diverse needs, including screen readers, color contrast options, and keyboard navigation.
-
-Sync Across Devices: Enable synchronization of tasks and settings across multiple devices to facilitate seamless access and continuity for users.
-
-Performance: Optimize app performance to ensure fast loading times and smooth operation, even with a large number of tasks or users.</p>
+User-Friendly Interface: Design an intuitive user interface that simplifies the shopping experience, ensuring easy navigation and clear presentation of product details, promo code entry, and checkout options. A user-friendly interface enhances engagement and customer satisfaction.
+</p>
 
 <h2>Project Technologies:</h2>
+
 <p>- Dart language</p>
 
  <h2>Screenshot:-</h2>
 
 
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/0914be0b-42b3-44c6-9c44-06f650a7a7ff"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/83212f91-4ddc-4b7a-b6fe-8f372a68201b" height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/2393b6a6-abc3-4b17-9f09-4f336c23b211"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/0be94bae-40cb-417e-bd5f-fe049e30e683"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/8fa6f5e0-b71c-439b-947d-81f23e4d513d"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/b1689d87-65ef-4faf-8724-d8ba5391aa29"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/fc5975aa-6d59-44aa-9e87-e8652b516c54"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/0bae474a-c443-40e8-b98c-976d0591923a"  height="400">
+
+
+
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/7c92673b-d432-4350-a376-92ba8f5c9f20"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/9ef6ca12-e4ef-4640-bd07-2210a414a6f3" height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/233da09d-0bfa-485f-b804-0d32f6a197f8"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/8cd589fc-964d-4c82-94fb-92cde39e88ab"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/cdeed3fe-30d1-4721-844e-eb79571a2fe1"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/46e2738c-ff98-4157-ad7a-ddbd8fa5cc94"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/f1e7fda6-8b5f-47fa-af9f-943a50db8c91"  height="400">
+<img src="https://github.com/aryansabhani/e-com/assets/112259316/0a09028f-239b-4351-9079-0d0f71b0ee70"  height="400">
 
 
 
